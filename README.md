@@ -1,0 +1,1 @@
+# Sinais_de_trading_e_backtesting-Bitcoin
